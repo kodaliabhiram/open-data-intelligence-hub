@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Pandas Data Analysis Report — Superstore Performance Pipeline
 
 An end-to-end Python-based data engineering and descriptive analytics pipeline that processes raw transactional records from a commercial retail operation (`Superstore_data.csv`). The pipeline ingests the data, addresses critical data quality issues, handles programmatic string normalization, computes advanced multi-level groupings, and delivers polished exploratory data visualizations using Seaborn and Matplotlib.
@@ -7,16 +7,13 @@ An end-to-end Python-based data engineering and descriptive analytics pipeline t
 
 ## 📂 Repository Structure
 
-```text
 ├── Notebook.ipynb                     # Main Jupyter Notebook containing the full pipeline
 ├── Superstore_data.csv                # Raw, uncleaned transaction dataset (Source)
 ├── Cleaned_sales.csv                  # Standardized, type-correct output dataset 
 |── Charts                             # Folder containing plots images on data.
 └── anaysis_report.md                  # Repository documentation and analysis summary
 
-```
 
----
 
 ## 1. Dataset Overview
 
